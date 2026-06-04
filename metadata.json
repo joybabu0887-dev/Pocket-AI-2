@@ -1,0 +1,6 @@
+{
+  "name": "Pocket AI",
+  "description": "Professional AI Prompt Generator for Logos, Posters, YouTube Thumbnails, and AI Images in Bangla and English",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
